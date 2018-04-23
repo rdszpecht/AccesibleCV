@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+}
+
+a{
+    color: black;
+}
+
+#heading{
+    height: 10em;
+    width: 100%;
+    background-color: RGB(241,241,241);
+    font-family: Lucida sans-unicode, sans-serif;
+}
+
+#rest{
+    margin-top: 2em;
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+}
+
+.col{
+    float: left;
+    width: 50%;
+}
+
+.bigText{
+    font-family: inherit;
+    font-size: 1em;
+}
+
+#rels{
+    float: left;
+    margin-top: 1em;
+}
+
+#photo{
+    margin-top: 1em;
+    width: 8em;
+    height: 8em;
+    border-radius: 50%;
+    float: left;
+}
+
+#basicData{
+    margin-top: 3em;
+    margin-left: 2em;
+}
+
+#name{
+    color: dodgerblue;
+}
+
+#surname{
+    color: black;
+}
+
+
+#studies{
+    color: darkslategray;
+}
