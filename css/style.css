@@ -7,11 +7,21 @@ a{
     color: black;
 }
 
+h1{
+    font-size: 1.4em;
+    font-family: "Lucida sans-unicode", sans-serif;
+}
+
+h2{
+    font-size: 1.1em;
+    font-family: "Lucida sans-unicode", sans-serif;
+}
+
 #heading{
     height: 10em;
     width: 100%;
     background-color: RGB(241,241,241);
-    font-family: Lucida sans-unicode, sans-serif;
+    font-family: "Lucida sans-unicode", sans-serif;
 }
 
 #rest{
@@ -24,7 +34,9 @@ a{
     font: bold;
     color: darkslategray;
 }
-
+.black{
+    color: black;
+}
 .blue{
     color: blue;
 }
@@ -54,7 +66,7 @@ a{
 }
 
 .title-rest{
-    font-family: Lucida sans-unicode, sans-serif;
+    font-family: "Lucida sans-unicode", sans-serif;
     font-size: 1.2em;
 }
 
@@ -85,11 +97,11 @@ a{
 }
 
 #aptitudes{
-    height: 10em;
+    height: 15em;
 }
 
 #nubePalabras{
-    height: 10em;
+    height: 15em;
     margin-left: 3em;
 }
 
@@ -109,5 +121,6 @@ a{
 #end{
     width: 100%;
     height: 30em;
-    margin-bottom: 20em;
+    margin-top: 5em;
+    float: left;
 }
