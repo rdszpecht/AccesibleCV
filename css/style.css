@@ -25,6 +25,10 @@ a{
     color: darkslategray;
 }
 
+.blue{
+    color: blue;
+}
+
 .progressBar{
     height: 0.9em;
 }
