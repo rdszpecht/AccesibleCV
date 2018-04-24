@@ -78,12 +78,10 @@ a{
 
 #name{
     color: dodgerblue;
-    text-decoration: bold;
 }
 
 #surname{
     color: black;
-    text-decoration: bold;
 }
 
 #aptitudes{
@@ -97,7 +95,6 @@ a{
 
 #studies{
     color: darkslategray;
-    text-decoration: bold;
 }
 
 #qr{
