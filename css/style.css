@@ -21,6 +21,10 @@ h2{
     font-family: "Lucida sans-unicode", sans-serif;
 }
 
+li{
+    list-style: none;
+}
+
 #heading{
     height: 10em;
     width: 100%;
